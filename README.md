@@ -12,4 +12,4 @@ that many items/choices could have hidden or unexpected water footprints.
 - At the top of the *main.lua*, set WATER_SHED_PATH to the path to your local clone of the water-shed repo
 - Create a .zip file with main.lua, res/, and data/; rename this .zip to game.love
 - Open this new file with Love2D to run the game
-
+        
